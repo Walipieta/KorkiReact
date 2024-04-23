@@ -1,11 +1,9 @@
-import Btn from "@/components/Btn";
+import HeroSection from "@/components/HeroSection";
 
 export default function Home() {
   return (
     <>
-      <Btn title="Try for free"></Btn>
-      <Btn title="Login"></Btn>
-      <Btn title="Register"></Btn>
+      <HeroSection />
     </>
   );
 }

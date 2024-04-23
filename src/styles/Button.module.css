@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+
+.btn {
+  padding: 22px 54px;
+  border-radius: 10px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #111111;
+  border: 0;
+  width: fit-content;
+}
+
+.btnPrimary {
+  background: linear-gradient(90deg, #3fe8ab, #78cdcd);
+}
+
+.btnSecondary {
+  background: linear-gradient(90deg, #3fe8ab 0%, #78cdcd 100%);
+}
