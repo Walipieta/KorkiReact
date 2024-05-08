@@ -1,8 +1,6 @@
 import React from "react";
 import BtnPrimary from "@/components/BtnPrimary";
-import BtnSecondary from "@/components/BtnSecondary";
 import Paragraph from "@/components/Paragraph";
-import Price from "@/components/Price";
 import Heading from "@/components/Heading";
 import styles from "@/styles/HeroSection.module.css";
 
