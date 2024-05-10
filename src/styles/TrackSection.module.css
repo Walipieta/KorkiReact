@@ -1,14 +1,9 @@
 .TrackSection{
-    display: flex;
-    flex-direction: row;
+    gap: 120px;
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
     align-items: center;
     padding: 0px;
-    gap: 136px;
-
-    position: absolute;
-    width: 1566px;
-    height: 532px;
-    left: 130px;
-    top: 2428px;
 }
-

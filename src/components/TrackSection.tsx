@@ -10,11 +10,12 @@ const TrackSection = () => {
         <img
           src="/img1.png"
           style={{
-            width: "802px",
-            height: "532px",
-            flex: "none",
-            order: "0",
-            flexGrow: "0",
+            width: "100%",
+            // width: "802px",
+            // height: "532px",
+            // flex: "none",
+            // order: "0",
+            // flexGrow: "0",
           }}
         />
       </div>
@@ -26,10 +27,8 @@ const TrackSection = () => {
           flexDirection: "column",
           alignItems: "flex-start",
           padding: "0px",
-
-          width: "628px",
-          height: "431px",
-
+          // width: "628px",
+          // height: "431px",
           flex: "none",
           order: 1,
           flexGrow: 0,
@@ -37,7 +36,6 @@ const TrackSection = () => {
       >
         <Heading text="Track Your Earnings And Cryptocode Made It Easy"></Heading>
         <Paragraph text="Nulla dui ultrices sed nam ligula dignissim tellus. Sem semper lorem facilisis ut amet tincidunt adipiscing maecenas. "></Paragraph>
-        <br />
         <BtnPrimary title="GET STARTED"></BtnPrimary>
       </div>
     </section>
